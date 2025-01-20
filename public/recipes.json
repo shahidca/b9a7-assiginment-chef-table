@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "recipesImg": "https://i.ibb.co.com/Rcy83zL/pexels-anilsharma65-30123589.jpg",
+      "recipeName": "Chicken Stir Fry",
+      "shortDescription": "A quick and flavorful stir fry with chicken and vegetables.",
+      "preparingTime": "25 minutes",
+      "calories": "350 kcal",
+      "ingredients": ["500 g chicken", "120 ml soy sauce", "200 g broccoli", "1 red bell pepper", "2 tbsp sesame oil", "2 cloves garlic", "1 tbsp ginger"]
+    },
+    {
+      "id": 2,
+      "recipesImg": "https://i.ibb.co.com/xL1YWXZ/pexels-stephen-leonardi-587681991-30274212.jpg",
+      "recipeName": "Vegan Curry",
+      "shortDescription": "A hearty vegan curry with chickpeas and coconut milk.",
+      "preparingTime": "30 minutes",
+      "calories": "400 kcal",
+      "ingredients": ["1 can coconut milk", "200 g chickpeas", "2 medium tomatoes", "1 medium onion", "2 tsp curry powder", "1 tsp turmeric", "100 g spinach"]
+    },
+    {
+      "id": 3,
+      "recipesImg": "https://i.ibb.co.com/KmybC9B/green-salad-lettuce-tomato-carrot-lemon-side-view.jpg",
+      "recipeName": "Pasta Salad",
+      "shortDescription": "A light and tangy pasta salad perfect for summer.",
+      "preparingTime": "20 minutes",
+      "calories": "320 kcal",
+      "ingredients": ["200 g pasta", "100 g cherry tomatoes", "1 cucumber", "50 g black olives", "30 ml olive oil", "1 tbsp vinegar", "1 tsp oregano"]
+    },
+    {
+      "id": 4,
+      "recipesImg": "https://i.ibb.co.com/RjwQCnF/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+      "recipeName": "Beef Tacos",
+      "shortDescription": "Tacos with seasoned ground beef and fresh toppings.",
+      "preparingTime": "30 minutes",
+      "calories": "450 kcal",
+      "ingredients": ["300 g ground beef", "1 packet taco seasoning", "6 taco shells", "50 g lettuce", "50 g shredded cheese", "1 tomato", "30 g sour cream"]
+    },
+    {
+      "id": 5,
+      "recipesImg": "https://i.ibb.co.com/71pR6rq/pancakes-with-nuts-vanilla-cream-strawberry-sauce-top.jpg",
+      "recipeName": "Fluffy Pancakes",
+      "shortDescription": "Classic pancakes that are light and fluffy.",
+      "preparingTime": "15 minutes",
+      "calories": "290 kcal",
+      "ingredients": ["200 g flour", "2 eggs", "300 ml milk", "1 tbsp sugar", "1 tsp baking powder", "30 g butter", "Pinch of salt"]
+    },
+    {
+      "id": 6,
+      "recipesImg": "https://i.ibb.co.com/db35K6y/front-view-tasty-vegetable-salad-with-cheese-dark-background.jpg",
+      "recipeName": "Caesar Salad",
+      "shortDescription": "A refreshing Caesar salad with homemade dressing.",
+      "preparingTime": "15 minutes",
+      "calories": "220 kcal",
+      "ingredients": ["100 g romaine lettuce", "50 g croutons", "30 g Parmesan cheese", "3 tbsp Caesar dressing", "1 boiled egg", "1 clove garlic"]
+    },
+    {
+      "id": 7,
+      "recipesImg": "https://i.ibb.co.com/XkMXHc5/top-view-delicious-salad-with-fresh-vegetables-dark-surface.jpg",
+      "recipeName": "Vegetable Biryani",
+      "shortDescription": "A flavorful and aromatic vegetable biryani.",
+      "preparingTime": "40 minutes",
+      "calories": "400 kcal",
+      "ingredients": ["200 g basmati rice", "150 g mixed vegetables", "1 medium onion", "2 cloves garlic", "1 tsp cumin seeds", "2 tbsp biryani masala", "3 tbsp yogurt"]
+    }
+  ]
+  
